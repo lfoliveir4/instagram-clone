@@ -3,3 +3,4 @@
 Backend developed in nodeJS with MongoDB<p>
 Frontend developed in ReactJS<p> 
 Mobile developed in React Native
+
